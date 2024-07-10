@@ -9,5 +9,5 @@ protein-protein interaction networks emphasizing distinct subnetworks, including
 Cytokine-Mediated TNF-1α Signaling via NF-1κB, Wnt/LRP/DKK signaling and cell
 cycle regulation. 
 
-Download the Cytoscape network and visualize the EC_Hypoxia_response PPI
+Download the Cytoscape network .cys file and visualize the EC_Hypoxia_response PPI
 
